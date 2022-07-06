@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mhappy78/coronaboardTools/issues"
   },
-  "homepage": "https://github.com/mhappy78/coronaboardTools#readme"
+  "homepage": "https://github.com/mhappy78/coronaboardTools#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
 }
